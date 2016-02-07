@@ -1,3 +1,3 @@
-# Workflows Course 
+# Workflows Course
 
-This is my proactice project.
+This project is an example of workflow management for a lynda.com course.
