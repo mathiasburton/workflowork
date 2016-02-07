@@ -1,15 +1,14 @@
 {
   "name": "workflows",
   "version": "0.0.1",
-  "description": "A project to practice workflows",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
     "url": "?.git"
   },
-  "author": "Mathias Burton",
-  "license": "ISC"
+  "author": "Ray Villalobos",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7"
+  }
 }
